@@ -2,7 +2,7 @@ import os
 import keyboard
 import time
 
-filename = "test.txt"
+filename = "passwords.txt"
 n = 0
 pbe = []
 wszystkielinie = []
